@@ -1,0 +1,157 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 22px;
+  color: #111;
+  padding: 0%;
+}
+
+.form {
+  padding: 20px;
+  margin: 5px;
+  background: #fff;
+  height: 45rem;
+  width: 22rem;
+  border: 1px solid #9e9e9e;
+  border-radius: 7px;
+  margin-top: 25px;
+}
+
+.heading {
+  font-family: "Amazon Ember", Arial, sans-serif;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.amazon {
+  height: 45px;
+  width: 117px;
+  margin-left: 50%;
+  /* margin-bottom: 5%; */
+}
+
+span {
+  display: flex;
+  justify-content: center;
+  margin-left: 103%;
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: -41px;
+}
+
+.container {
+  display: flex;
+  width: 20%;
+  margin: auto;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+input[type] {
+  width: 97%;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 4px;
+  border: 1px solid rgba(130, 130, 130, 0.815);
+}
+
+.mobi {
+  display: flex;
+  margin-bottom: 9px;
+}
+
+.mobicode {
+  width: 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+input[type="tel"] {
+  width: 248px;
+  height: 30px;
+  margin-left: 11px;
+  font-size: 15px;
+  border-radius: 4px;
+  border: 1px solid rgba(130, 130, 130, 0.815);
+}
+
+.code {
+  height: 34px;
+  width: 80px;
+  font-size: 15px;
+  border-radius: 7px;
+  border: 1px solid rgba(175, 174, 174, 0.645);
+}
+
+p {
+  font-weight: 600;
+  font-size: 13px;
+  font-family: "Amazon Ember", Arial, sans-serif;
+  color: #5f5e5e;
+  font-style: normal;
+}
+
+button {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  height: 33px;
+  padding: 9px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #ffd814;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #f2ca01df;
+}
+.para1 {
+  display: flex;
+  font-size: 10px;
+  align-items: center;
+  margin-bottom: -22px;
+}
+
+.para2 {
+  display: flex;
+  font-size: 8px;
+  align-items: center;
+  margin-bottom: -22px;
+  margin-top: 20px;
+}
+
+.link {
+  font-size: 13px;
+  display: flex;
+  font-weight: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: #006bcc;
+  font-size: 13px;
+  font-weight: 100;
+}
+
+a:hover {
+  color: rgb(169, 7, 7);
+}
+.ancer {
+  margin-right: 1px;
+}
